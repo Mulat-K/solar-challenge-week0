@@ -26,8 +26,6 @@ The goal is to identify **high-potential regions** that align with the companyâ€
 
 ---
 
-
-
 1. Clone the repository
    ```bash
    git clone https://github.com/Mulat-K/solar-challenge-week0.git
