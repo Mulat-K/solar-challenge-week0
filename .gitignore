@@ -1,4 +1,21 @@
-.venv
-data
+# Virtual environment
+.venv/
 
+# Data files
+data/
+*.csv
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Environment files
+.env
 
